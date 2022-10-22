@@ -1,0 +1,9 @@
+{
+	"name": "AtcoderWorkspace",
+	"dockerComposeFile": [
+		"../docker-compose.yml"
+	],
+	"extensions": ["ms-python.python"],
+	"service": "atcoder",
+	"workspaceFolder": "/code"
+}
