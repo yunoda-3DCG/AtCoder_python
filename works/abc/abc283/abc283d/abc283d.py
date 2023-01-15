@@ -7,7 +7,7 @@ for i in len(s):
     if s[i] == '(':
         pass
     elif s[i] == ')':
-        if stock
+        pass
     else:
         stock.append(s[i])
 
