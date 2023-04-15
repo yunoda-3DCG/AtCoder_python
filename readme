@@ -5,7 +5,7 @@ AtCoderへのログイン
     oj d https://atcoder.jp/contests/agc001/tasks/agc001_a
 
 テストの実行
-    oj t -c "python3 practiceA.py" -d test
+    oj t -c "python3 abc295a.py" -d test
 
 コードの提出
     oj s https://atcoder.jp/contests/abs/tasks/abc086_a abc086a.py 
